@@ -1,0 +1,3 @@
+[submodule "node-rtsp-stream-list"]
+	path = node-rtsp-stream-list
+	url = https://github.com/land007/node-rtsp-stream-list.git
