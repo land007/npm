@@ -1,3 +1,6 @@
 [submodule "node-rtsp-stream-list"]
 	path = node-rtsp-stream-list
 	url = https://github.com/land007/node-rtsp-stream-list.git
+[submodule "node-bitmap-js"]
+	path = node-bitmap-js
+	url = https://github.com/land007/node-bitmap-js.git
